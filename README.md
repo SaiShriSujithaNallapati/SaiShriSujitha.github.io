@@ -116,3 +116,8 @@ Roasted beets with a drizzle of honey and a sprinkle of mint
 Grilled peaches with a dollop of coconut yogurt and a sprinkle of cinnamon
 
 Frozen fruit sorbet made from mango or strawberry
+
+*** 
+*** 
+<hr/>
+
