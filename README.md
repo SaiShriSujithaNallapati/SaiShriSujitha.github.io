@@ -121,15 +121,11 @@ Frozen fruit sorbet made from mango or strawberry
 <hr/>
 
 <p align="center"> <strong>Additional Tips & Tricks To Gain Weight
- Gain Weight
--|-
- Increase Portion Sizes
- Stay Hydrated
- Have Snacks Between Meals
- Don't Skip Meals
-
-
-
+  
+1. Increase Portion Sizes
+2. Stay Hydrated
+3. Have Snacks Between Meals
+4. Don't Skip Meals
 
 *** 
 *** 
