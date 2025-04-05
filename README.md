@@ -34,6 +34,8 @@ Greek yogurt bowl topped with mango, kiwi, and a handful of granola
 A side of smoothie made with berries, spinach, almond milk, and a spoon of chia seeds
 
 
+
+
 ### Lunch:
 Sweet potato and quinoa bowl with a drizzle of maple syrup and a sprinkle of cinnamon
 
@@ -50,6 +52,8 @@ A side of kale and chickpea salad with lemon-tahini dressing
 Grilled chicken with a fruit salsa (mango, pineapple, and cilantro) served over a bed of quinoa
 
 A side of cucumber and melon salad with lime juice and a sprinkle of mint leaves
+
+
 
 
 ### Snack:
@@ -70,6 +74,8 @@ A bowl of grapes, strawberries, and sliced orange
 A few apple slices with almond butter
 
 
+
+
 ### Dinner:
 Grilled chicken served with a side of brown rice pilaf and a sweet chili sauce
 
@@ -86,6 +92,8 @@ A side of sweet potato fries sprinkled with rosemary and sea salt
 Citrus-glazed salmon with a side of steamed asparagus and a refreshing watermelon salad
 
 A small serving of roasted carrots with a drizzle of honey
+
+
 
 
 ### Dessert:
