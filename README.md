@@ -124,3 +124,6 @@ Frozen fruit sorbet made from mango or strawberry
 ### Here are your competition matches!
 ## Joey | Clara | Samantha | Jana | 
 
+### Let's see who wins in this competition!
+### Good Luck!
+
