@@ -33,7 +33,8 @@ Greek yogurt bowl topped with mango, kiwi, and a handful of granola
 
 A side of smoothie made with berries, spinach, almond milk, and a spoon of chia seeds
 
-
+*** 
+<hr/>
 
 
 ### Lunch:
@@ -53,7 +54,8 @@ Grilled chicken with a fruit salsa (mango, pineapple, and cilantro) served over 
 
 A side of cucumber and melon salad with lime juice and a sprinkle of mint leaves
 
-
+*** 
+<hr/>
 
 
 ### Snack:
@@ -73,7 +75,8 @@ A bowl of grapes, strawberries, and sliced orange
 
 A few apple slices with almond butter
 
-
+*** 
+<hr/>
 
 
 ### Dinner:
@@ -93,7 +96,8 @@ Citrus-glazed salmon with a side of steamed asparagus and a refreshing watermelo
 
 A small serving of roasted carrots with a drizzle of honey
 
-
+*** 
+<hr/>
 
 
 ### Dessert:
